@@ -13,5 +13,5 @@ Este programa convierte de **decimal** a *bits* y lo devuelve en un ~~float~~ St
 - Conversión instantanea
 - Peso de instalación mínimo
 
-[!NOTE]
-Acepta valores negativos desde la última actualización
+> [!NOTE]
+> Acepta valores negativos desde la última actualización
